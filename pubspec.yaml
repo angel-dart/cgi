@@ -1,0 +1,4 @@
+name: angel_cgi
+dependencies:
+  angel_framework: ^2.0.0-rc.10
+  async: ^2.0.0
